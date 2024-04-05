@@ -17,7 +17,7 @@ html {
 }
 
 html::before {
-  content: '!! Stop !!';
+  content: 'THIS WEBSITE HAS BEEN BLOCKED BY InterShield. This content has been blocked as it is not suitable for school environments. If you feel this is a mistake please contact your administartor.';
 }
 
 body {
